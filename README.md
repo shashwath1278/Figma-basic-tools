@@ -126,5 +126,5 @@ The panel also categorizes shortcuts for tools, layers, editing, prototyping, an
 ---
 
 
-[1]: https://www.figma.com/community/ or Open Figma → `Help → Keyboard shortcuts`
-::contentReference[oaicite:13]{index=13}
+https://www.figma.com/community/ or Open Figma → `Help → Keyboard shortcuts`
+
